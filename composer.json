@@ -1,0 +1,16 @@
+{
+  "name": "IT328/pets",
+  "authors": [
+    {
+      "name": "Cody Zipp",
+      "email": "Czipp2@mail.greenriver.edu"
+    },
+    {
+      "name": "Raj Dhaliwal",
+      "email": "Rdhaliwal6@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
